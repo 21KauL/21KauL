@@ -8,7 +8,13 @@ I'm Kauan Lima, front-end developer, at the moment i'm creating projects with:
 
 Contact me on:
 
- ![GMAIL](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white(mailto:kauanlimaoliveira2@gmail.com))
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanlimaoliveira2@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/21kaul)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575991114242?text=Oi%20Kauan%2C%20tudo%20bom%3F)
+
+
 
  
 
